@@ -1,9 +1,8 @@
-<img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" /># Scalable-Web-Scraping-Pipeline
-
                                          ** Runned and Tested in Google Colab **                                           
 ## 🎯 Context
 
 Internship challenge from Digiole. The task was to create, build and run a **modular scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries.
+(https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06)
 
 Tasks: 
 - Extract company page links from a directory.
