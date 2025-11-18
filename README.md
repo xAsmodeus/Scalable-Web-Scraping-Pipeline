@@ -19,16 +19,14 @@ You'll have to:
 <img width="677" height="208" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
 
 ## Approach
-`from bs4 import BeautifulSoup
-import requests
-import pandas as pd
-from pandas import DataFrame as DataFrame
-import urllib.parse
-import re`
-### Imports
+- Imported the libraries
+- Got data from each of the 3 pages.
+- Made a CSV from each page containing the .html "link" of each industry.
+  Example photo: <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
+
+- 
 
 ## Results
-
 
 
 ## Difficulties
