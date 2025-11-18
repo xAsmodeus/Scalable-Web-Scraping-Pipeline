@@ -22,7 +22,7 @@ You'll have to:
 - Imported the libraries.
 - Got data from each of the 3 pages.
 - Made a CSV from each page containing the .html "link" of each industry.
-- Merged the 3 CSV files to one.
+- Merged the 3 CSV files into one.
 <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
 - Used that CSV file to build the whole address of each link: **Standard part** + **variable part**.
