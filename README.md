@@ -3,23 +3,24 @@
 
 Internship challenge from Digiole. The task was to create, build and run a **modular scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries.
 
-Tasks: 
-- Extract company page links from a directory.
-- Visit those links to collect email addresses.
-- Clean, structure, and store the results in CSV files.
+## 🚀 Challenge Prompt
+
+> “Imagine you’re tasked with generating a contact database for wine producers in Europe, starting with data from [Europages](https://www.europages.co.uk/). How would you approach this challenge in a structured, repeatable, and scalable way?”
+You'll have to:
+
+1. Collect and save all winery profile URLs from Europages.
+2. Visit those pages (or linked websites), extract valid email addresses.
+3. Produce and submit the final cleaned datasets(CSV), and share your codebase.
 
 <img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" />
 ## Approach
 
-### 🚀 Challenge Prompt
-
-> “Imagine you’re tasked with generating a contact database for wine producers in Europe, starting with data from [Europages](https://www.europages.co.uk/). How would you approach this challenge in a structured, repeatable, and scalable way?”
-> 
 
 ## Difficulties
 1) Some webpages didn't own a 'Visit Webpage' button so an early approach resulted to having some slots empty in the email CSV.
 2) To "route" to different webpages
-3) For example: "Green Life Revolution sl" didn't have a
+3) "Green Life Revolution sl" had an email instead of a 'Visit Webpage'. No tests were made.
+4) In the end, the tasks required to find the countries too, so I backtracked to make it work.
 
 ## References
 1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
