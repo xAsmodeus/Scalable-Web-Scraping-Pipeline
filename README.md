@@ -10,8 +10,7 @@ Tasks:
 - Visit those links to collect email addresses.
 - Clean, structure, and store the results in CSV files.
 
-<img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" /># Scalable-Web-Scraping-Pipeline
-
+<img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" />
 ## Approach
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
