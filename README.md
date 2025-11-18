@@ -11,28 +11,15 @@ Tasks:
 <img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" />
 ## Approach
 
-In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
-## Examples
-    USED: Display block, constants(input)/output blocks, Matlab Function Block.
-**1. Two inputs -> adds the numbers together -> displays the result.** 
+### 🚀 Challenge Prompt
 
-<img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />  
+> “Imagine you’re tasked with generating a contact database for wine producers in Europe, starting with data from [Europages](https://www.europages.co.uk/). How would you approach this challenge in a structured, repeatable, and scalable way?”
+> 
 
-**2. An multiplication example with libraries (numpy) imported into Python code.**
-
-<img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
-
-## TEST FILES
-
-The files in the repository are examples for you to run. 
-
-## Observations
-1) No Problem with 1 / N inputs -----> 1 / M outputs
-   The MATLAB function block automatically recognizes the model's inputs/outputs through the code and thus adjusts what is needed. Then you just need to tweak variables/dimensions/connections, etc.
-   
-2) Simulink may not directly support the Python language. Therefore, scripts that take blocks_of_code must be written exclusively in MATLAB functions. In other words, the code must be converted from Python => MATLAB.
-
-3) Special attention must be paid to the dimensions of the variables, otherwise the model will not run. (They can be changed by clicking on function_block > Edit Data > Symbols ( & Property Inspector). 
+## Difficulties
+1) Some webpages didn't own a 'Visit Webpage' button so an early approach resulted to having some slots empty in the email CSV.
+2) To "route" to different webpages
+3) For example: "Green Life Revolution sl" didn't have a
 
 ## References
 1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
