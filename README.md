@@ -31,7 +31,7 @@ You'll have to:
  <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
  
 - |NAME|EMAILS|COUNTRY| CSV file
-  *to be uploaded*
+<img width="480" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
 ## Difficulties
 1) Some webpages didn't own a 'Visit Webpage' button so an early approach resulted to having some slots empty in the email CSV.
